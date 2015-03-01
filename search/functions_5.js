@@ -46,8 +46,5 @@ var searchData=
   ['setxvisibility',['setXVisibility',['../class_astroanu_1_1_c3js_p_h_p_1_1_axis.html#a145f95a547de1b106b6b07fc61541ca0',1,'Astroanu\C3jsPHP\Axis\setXVisibility()'],['../class_astroanu_1_1_c3js_p_h_p_1_1_grid.html#a145f95a547de1b106b6b07fc61541ca0',1,'Astroanu\C3jsPHP\Grid\setXVisibility()']]],
   ['setylines',['setYLines',['../class_astroanu_1_1_c3js_p_h_p_1_1_grid.html#af1398266750d80d7f2091e79eb4a9162',1,'Astroanu::C3jsPHP::Grid']]],
   ['setyvisibility',['setYVisibility',['../class_astroanu_1_1_c3js_p_h_p_1_1_grid.html#aa514030bcf77f86a6d2ef4a8631d9715',1,'Astroanu::C3jsPHP::Grid']]],
-  ['setzerobased',['setZerobased',['../class_astroanu_1_1_c3js_p_h_p_1_1_charts_1_1_area.html#aa4bd7ef0c34ccd60e534dc89d3a304f8',1,'Astroanu\C3jsPHP\Charts\Area\setZerobased()'],['../class_astroanu_1_1_c3js_p_h_p_1_1_charts_1_1_bar.html#aa4bd7ef0c34ccd60e534dc89d3a304f8',1,'Astroanu\C3jsPHP\Charts\Bar\setZerobased()']]],
-  ['step_5ftype_5fstep',['STEP_TYPE_STEP',['../class_astroanu_1_1_c3js_p_h_p_1_1_charts_1_1_line.html#ae34fba448879628bc69df7ffa236f4bb',1,'Astroanu::C3jsPHP::Charts::Line']]],
-  ['step_5ftype_5fstep_5fafter',['STEP_TYPE_STEP_AFTER',['../class_astroanu_1_1_c3js_p_h_p_1_1_charts_1_1_line.html#a89423eb558f80a960f596a1ad06e016b',1,'Astroanu::C3jsPHP::Charts::Line']]],
-  ['step_5ftype_5fstep_5fbefore',['STEP_TYPE_STEP_BEFORE',['../class_astroanu_1_1_c3js_p_h_p_1_1_charts_1_1_line.html#aadf3a9dc325686208e59c789b3c71044',1,'Astroanu::C3jsPHP::Charts::Line']]]
+  ['setzerobased',['setZerobased',['../class_astroanu_1_1_c3js_p_h_p_1_1_charts_1_1_area.html#aa4bd7ef0c34ccd60e534dc89d3a304f8',1,'Astroanu\C3jsPHP\Charts\Area\setZerobased()'],['../class_astroanu_1_1_c3js_p_h_p_1_1_charts_1_1_bar.html#aa4bd7ef0c34ccd60e534dc89d3a304f8',1,'Astroanu\C3jsPHP\Charts\Bar\setZerobased()']]]
 ];

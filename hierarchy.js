@@ -1,5 +1,6 @@
 var hierarchy =
 [
+    [ "Callback", "class_astroanu_1_1_c3js_p_h_p_1_1_callback.html", null ],
     [ "Chart", "class_astroanu_1_1_c3js_p_h_p_1_1_chart.html", null ],
     [ "JsonSerializable", null, [
       [ "Axis", "class_astroanu_1_1_c3js_p_h_p_1_1_axis.html", null ],

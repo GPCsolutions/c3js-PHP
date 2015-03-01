@@ -7,7 +7,7 @@ var class_astroanu_1_1_c3js_p_h_p_1_1_data =
     [ "setKeysX", "class_astroanu_1_1_c3js_p_h_p_1_1_data.html#a61b6758a5c606446739793c0f47be276", null ],
     [ "setNames", "class_astroanu_1_1_c3js_p_h_p_1_1_data.html#a45f2b8a277f9ac0914ef161c5e932b4d", null ],
     [ "setRows", "class_astroanu_1_1_c3js_p_h_p_1_1_data.html#a78b133d53c42c6e1f592e54ae0554cd7", null ],
-    [ "setType", "class_astroanu_1_1_c3js_p_h_p_1_1_data.html#a5acadd0fcaec174fa0d6d97ce3573d58", null ],
+    [ "setType", "class_astroanu_1_1_c3js_p_h_p_1_1_data.html#ade096bf521b5d05dcaff2ba1a42e9f71", null ],
     [ "setUrl", "class_astroanu_1_1_c3js_p_h_p_1_1_data.html#a0b6d0c531aa70b1811b166299edab8d0", null ],
     [ "setX", "class_astroanu_1_1_c3js_p_h_p_1_1_data.html#a301469d59d809fb9557830ec5e53788f", null ],
     [ "setXFormat", "class_astroanu_1_1_c3js_p_h_p_1_1_data.html#aea8dafc98a11c0b6640ceae96e4526e1", null ],
