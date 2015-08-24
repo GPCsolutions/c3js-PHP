@@ -29,7 +29,7 @@ class Gauge implements \JsonSerializable
      */
     public function setLabelVisibility($visibility = true)
     {
-       $this->ensureLabel();
+        $this->ensureLabel();
         $this->data['label']['show'] = $visibility;
     }
 

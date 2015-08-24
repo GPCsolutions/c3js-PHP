@@ -360,7 +360,8 @@ class Chart
      *
      * @see addRegion()
      */
-    public function setRegions($regions) {
+    public function setRegions($regions)
+    {
         $this->ensureRegions();
         $this->options['regions'] = $regions;
         return $this;
